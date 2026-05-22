@@ -1,0 +1,6 @@
+{
+  "name": "FastMovie",
+  "description": "A high-performance cinematic streaming platform with standard movie/series categorization, interactive player, personalized watchlists, user ratings, comments, and an integrated Gemini-powered Movie Recommendation AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
